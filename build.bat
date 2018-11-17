@@ -1,0 +1,1 @@
+cl /EHsc /D _UNICODE /D UNICODE user32.lib Tetris.cpp
